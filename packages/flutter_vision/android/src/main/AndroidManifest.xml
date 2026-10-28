@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--enable this for storing  bitmap-->
+    <!--<application android:requestLegacyExternalStorage="true">
+    </application>-->
+</manifest>
